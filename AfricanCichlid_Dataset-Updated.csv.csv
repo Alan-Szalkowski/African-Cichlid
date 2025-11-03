@@ -1,0 +1,200 @@
+﻿Species,Lake,Diet,Ecotype,AdultLength_cm,Aggression_1to5,Activity_1to5,DisplayAbility_1to5,MinGroupSize,PreferredPH,PreferredTemp_C,PreferredHardness_Dgh,Rarity_1to5,CareDifficulty_1to5,Price_GBP,RecommendedTank_L,SensitivityWaterParams_1to5,SensitivityStress_1to5
+Blue Dolphin Cichlid,Malawi,Omnivore,Hap,22.5,3,3,3,1,8,26,15,3,2,16,250,2,2
+Calvus Cichlid,Tanganyika,Carnivore,Hap,11.5,3,1,3,1,8.2,26,15,3,3,23,120,3,4
+Electric Yellow Cichlid,Malawi,Omnivore,Hap,10.5,1,4,4,3,8,26,15,1,1,7,120,2,2
+Electric Blue Johanni Cichlid,Malawi,Herbivore,Mbuna,10,5,5,4,3,8.2,26,15,2,2,7,180,2,3
+Eureka Red Peacock Cichlid,Malawi,Omnivore,Peacock,12.5,2,2,5,1,8,26,13,2,2,13,150,2,2
+Frontosa Cichlid,Tanganyika,Omnivore,Hap,30,4,1,3,1,8.3,26,15,3,3,15,400,3,4
+Giraffe Cichlid,Malawi,Carnivore,Hap,25,4,4,4,1,8,26,15,3,3,10,300,2,3
+Jewel Cichlid,Turkana,Omnivore,Open Water,12,5,1,4,1,7,26,8,2,2,6,100,2,2
+Kribensis Cichlid,Victoria,Omnivore,Open Water,9,1,1,1,1,7,26,8,1,1,5,80,2,2
+Gold Mbuna Cichlid,Malawi,Herbivore,Mbuna,11,2,3,4,5,8.4,26,15,2,2,7,180,2,3
+OB Peacock Cichlid,Malawi,Omnivore,Peacock,12.5,2,3,5,1,8,26,13,2,2,12,150,2,2
+Snow White Cichlid,Malawi,Omnivore,Hap,11,3,3,4,5,8,26,15,3,2,6,180,2,2
+Sunshine Peacock Cichlid,Malawi,Carnivore,Peacock,10,2,2,5,1,8,26,13,2,2,13,150,2,2
+Acei Cichlid,Malawi,Omnivore,Hap,12,2,4,4,5,8.2,26,15,2,2,8,180,2,2
+Lwanda Peacock Cichlid,Malawi,Omnivore,Peacock,12,2,2,5,1,8,26,13,2,2,14,150,2,2
+Electric Blue Peacock Cichlid,Malawi,Omnivore,Peacock,14,2,2,5,1,8,26,13,3,2,13,150,2,2
+Tropheus Moori Cichlid,Tanganyika,Herbivore,Mbuna,12.5,5,5,2,10,8.5,26,15,4,5,12,300,4,5
+Strawberry Peacock,Malawi,Omnivore,Peacock,12.5,2,3,4,1,8,26,15,2,2,15,150,2,2
+Fosso Cichlid,Malawi,Carnivore,Hap,30,3,4,3,1,8,26,15,4,3,8,250,2,3
+Lemon Jake Cichlid,Malawi,Omnivore,Peacock,13,2,2,5,1,8,26,13,2,2,10,150,2,2
+Malawi Eyebiter Cichlid,Malawi,Carnivore,Hap,23,5,5,3,1,8,26,15,3,4,12,250,3,3
+Ngara Flametail Cichlid,Malawi,Herbivore,Peacock,13,2,2,5,1,8,26,13,3,3,9,150,2,3
+Malawi Hawk Cichlid,Malawi,Carnivore,Hap,30,4,3,3,1,8,26,15,4,4,20,250,3,3
+Dragons Blood Peacock Cichlid,Tanganyika,Carnivore,Peacock,12,2,2,5,1,8,26,13,2,2,16,150,3,3
+Dubois Tropheus Cichlid,Malawi,Omnivore,Mbuna,11,5,5,2,10,8.5,26,15,4,4,8,300,3,4
+Burtons Cichlid,Victoria,Omnivore,Hap,15,3,3,2,1,7.5,26,10,4,3,20,120,2,3
+Sauvegei Cichlid,Victoria,Omnivore,Mbuna,10,4,3,3,1,8,26,13,4,3,20,150,2,4
+Nyererei Cichlid,Victoria,Omnivore,Mbuna,10,4,4,4,1,8,26,13,3,3,10,150,2,4
+Auloncara Firefish Cichlid,Victoria,Omnivore,Mbuna,8,1,2,5,1,8,26,13,2,2,13,150,2,3
+Pseudotropheus demasoni,Malawi,Herbivore,Mbuna,7.5,5,5,5,7,8,26,10,3,4,14,120,3,4
+Metriaclima estherae,Malawi,Omnivore,Mbuna,12,4,4,4,8,8,25,10,2,3,12,120,2,4
+Melanochromis auratus,Malawi,Omnivore,Mbuna,11,4,4,4,6,8,25,10,2,3,11,100,2,4
+Pseudotropheus crabro,Malawi,Herbivore,Mbuna,15,4,3,4,6,8,25,10,3,4,15,150,3,4
+Metriaclima lombardoi,Malawi,Omnivore,Mbuna,13,5,4,4,6,8,25,10,3,4,16,150,3,4
+Labidochromis flavigulis,Malawi,Herbivore,Mbuna,9,3,4,4,6,8,25,10,2,3,13,120,2,4
+Maylandia greshakei,Malawi,Omnivore,Mbuna,12,4,4,4,8,8,25,10,3,4,14,120,3,4
+Cynotilapia afra,Malawi,Herbivore,Mbuna,10,5,4,4,8,8,25,10,3,4,14,120,3,4
+Labeotropheus fuelleborni,Malawi,Herbivore,Mbuna,13,4,3,3,6,8,25,10,3,4,15,150,3,4
+Labeotropheus trewavasae,Malawi,Herbivore,Mbuna,12,4,3,3,6,8,25,10,3,4,15,150,3,4
+Tropheops chilumba,Malawi,Omnivore,Mbuna,12,4,3,3,6,8,25,10,3,4,14,120,3,4
+Tropheops red cheek,Malawi,Omnivore,Mbuna,11,4,3,3,6,8,25,10,3,4,13,120,3,4
+Chindongo socolofi,Malawi,Omnivore,Mbuna,10,4,3,4,6,8,25,10,3,4,13,120,3,4
+Metriaclima callainos,Malawi,Omnivore,Mbuna,11,4,4,4,6,8,25,10,3,4,14,120,3,4
+Melanochromis cyaneorhabdos,Malawi,Omnivore,Mbuna,8.5,5,4,5,6,8,25,10,4,4,15,120,3,4
+Pseudotropheus elongatus,Malawi,Omnivore,Mbuna,10,4,3,3,6,8,25,10,3,4,13,120,3,4
+Tropheops gracilior,Malawi,Omnivore,Mbuna,11,4,3,3,6,8,25,10,3,4,13,120,3,4
+Pseudotropheus saulosi,Malawi,Omnivore,Mbuna,8.5,4,4,5,6,8,25,10,4,4,16,120,3,4
+Pseudotropheus acei (Ngara variant),Malawi,Herbivore,Mbuna,12.5,3,3,4,6,8,25,10,3,3,14,120,2,4
+Aulonocara baenschi,Malawi,Carnivore,Peacock,11,2,3,5,4,8,25,10,3,3,20,150,2,3
+Aulonocara jacobfreibergi,Malawi,Carnivore,Peacock,15,2,3,5,4,8,25,10,3,3,20,150,2,3
+Aulonocara stuartgranti,Malawi,Carnivore,Peacock,13,2,3,5,4,8,25,10,3,3,18,150,2,3
+Aulonocara rubescens,Malawi,Carnivore,Peacock,12,2,3,5,4,8,25,10,3,3,18,150,2,3
+"Aulonocara sp. ""German Red""",Malawi,Carnivore,Peacock,13,2,3,5,4,8,25,10,4,3,22,150,2,3
+"Aulonocara sp. ""Blue Neon""",Malawi,Carnivore,Peacock,12,2,3,5,4,8,25,10,3,3,20,150,2,3
+"Aulonocara sp. ""Turkis""",Malawi,Carnivore,Peacock,13,2,3,5,4,8,25,10,4,3,22,150,2,3
+Aulonocara hueseri,Malawi,Carnivore,Peacock,12,2,3,5,4,8,25,10,3,3,20,150,2,3
+Aulonocara kandeensis,Malawi,Carnivore,Peacock,13,2,3,5,4,8,25,10,4,3,22,150,2,3
+Aulonocara ethelwynnae,Malawi,Carnivore,Peacock,11,2,3,5,4,8,25,10,4,3,20,150,2,3
+Aulonocara koningsi,Malawi,Carnivore,Peacock,13,2,3,5,4,8,25,10,4,3,22,150,2,3
+Aulonocara maylandi,Malawi,Carnivore,Peacock,11,2,3,5,4,8,25,10,3,3,20,150,2,3
+Aulonocara steveni,Malawi,Carnivore,Peacock,12,2,3,5,4,8,25,10,4,3,22,150,2,3
+"Aulonocara sp. ""Mamela""",Malawi,Carnivore,Peacock,13,2,3,5,4,8,25,10,4,3,22,150,2,3
+Sciaenochromis fryeri,Malawi,Carnivore,Hap,20,3,4,5,4,8,25,10,3,3,16,180,2,3
+Sciaenochromis ahli,Malawi,Carnivore,Hap,18,3,4,5,4,8,25,10,3,3,15,150,2,3
+Copadichromis borleyi,Malawi,Carnivore,Hap,20,3,4,4,4,8,25,10,3,3,14,150,2,3
+Copadichromis trewavasae,Malawi,Carnivore,Hap,17,3,4,4,4,8,25,10,3,3,14,150,2,3
+Copadichromis azureus,Malawi,Carnivore,Hap,16,3,4,4,4,8,25,10,3,3,14,150,2,3
+Copadichromis virginalis,Malawi,Carnivore,Hap,20,3,4,4,4,8,25,10,3,3,14,150,2,3
+Protomelas taeniolatus,Malawi,Carnivore,Hap,20,3,3,5,4,8,25,10,3,3,15,150,2,3
+Protomelas spilonotus,Malawi,Carnivore,Hap,18,3,3,5,4,8,25,10,3,3,15,150,2,3
+Protomelas fenestratus,Malawi,Carnivore,Hap,22,3,3,5,4,8,25,10,3,3,18,180,2,3
+Protomelas marginatus,Malawi,Carnivore,Hap,20,3,3,4,4,8,25,10,3,3,15,150,2,3
+Nimbochromis livingstonii,Malawi,Carnivore,Hap,25,3,2,4,3,8,25,10,4,3,22,180,2,3
+Nimbochromis venustus,Malawi,Carnivore,Hap,25,3,2,4,3,8,25,10,4,3,22,180,2,3
+Nimbochromis polystigma,Malawi,Carnivore,Hap,22,3,2,4,3,8,25,10,4,3,20,180,2,3
+Otopharynx lithobates,Malawi,Carnivore,Hap,15,3,3,3,4,8,25,10,3,3,14,150,2,3
+Otopharynx tetrastigma,Malawi,Carnivore,Hap,17,3,3,3,4,8,25,10,3,3,14,300,2,3
+Red Zebra Cichlid,Malawi,Omnivore,Mbuna,12,4,4,4,6,7.8,26,12,2,3,12,200,2,4
+Deep Water Hap Cichlid,Malawi,Carnivore,Hap,20,3,3,5,1,8,26,12,3,3,25,300,2,3
+Albino Peacock Cichlid,Malawi,Carnivore,Peacock,15,3,3,5,1,7.8,26,12,2,2,15,250,2,2
+Ruby Red Peacock Cichlid,Malawi,Carnivore,Peacock,15,3,3,5,1,7.8,26,12,2,2,18,250,2,2
+Blue Orchid Peacock Cichlid,Malawi,Carnivore,Peacock,15,3,3,5,1,7.8,26,12,3,2,20,250,2,2
+Sulfur Head Peacock Cichlid,Malawi,Carnivore,Peacock,15,3,3,5,1,7.8,26,12,3,2,20,250,2,2
+Neolamprologus brichardi,Tanganyika,Omnivore,Rock Dweller,10,3,3,4,6,8.2,25,15,2,2,8,120,3,3
+Neolamprologus leleupi,Tanganyika,Carnivore,Rock Dweller,12,3,3,4,1,8.2,25,15,2,3,10,150,3,4
+Neolamprologus cylindricus,Tanganyika,Carnivore,Rock Dweller,12,3,3,4,1,8.2,25,15,3,3,15,150,3,4
+Neolamprologus multifasciatus,Tanganyika,Omnivore,Shell Dweller,5,2,3,3,6,8.2,25,15,3,2,10,60,3,3
+Neolamprologus similis,Tanganyika,Omnivore,Shell Dweller,5,2,3,3,6,8.2,25,15,3,2,10,60,3,3
+Lamprologus ocellatus,Tanganyika,Omnivore,Shell Dweller,6,2,3,4,1,8.2,25,15,3,2,12,60,3,3
+Julidochromis marlieri,Tanganyika,Carnivore,Rock Dweller,12,3,3,4,2,8.2,25,15,2,2,12,150,3,3
+Julidochromis transcriptus,Tanganyika,Carnivore,Rock Dweller,8,2,3,4,2,8.2,25,15,2,2,10,100,3,3
+Julidochromis ornatus,Tanganyika,Carnivore,Rock Dweller,8,2,3,4,2,8.2,25,15,2,2,10,100,3,3
+Julidochromis dickfeldi,Tanganyika,Carnivore,Rock Dweller,9,2,3,4,2,8.2,25,15,3,2,12,120,3,3
+Cyprichromis leptosoma,Tanganyika,Planktivore,Open Water,12,2,5,4,10,8.5,25,15,3,3,15,200,3,4
+Paracyprichromis nigripinnis,Tanganyika,Planktivore,Open Water,10,2,5,4,10,8.5,25,15,3,3,15,200,3,4
+Tropheus brichardi,Tanganyika,Herbivore,Rock Grazer,12,4,4,4,12,8.4,25,15,4,4,25,300,4,4
+Tropheus sp. Ikola,Tanganyika,Herbivore,Rock Grazer,12,4,4,4,12,8.4,25,15,4,4,30,300,4,4
+Tropheus sp. Red Rainbow,Tanganyika,Herbivore,Rock Grazer,12,4,4,5,12,8.4,25,15,4,4,30,300,4,4
+Tropheus sp. Moliro,Tanganyika,Herbivore,Rock Grazer,12,4,4,5,12,8.4,25,15,4,4,28,300,4,4
+Tropheus sp. Bemba,Tanganyika,Herbivore,Rock Grazer,12,4,4,5,12,8.4,25,15,4,4,28,300,4,4
+Tropheus sp. Black Kiriza,Tanganyika,Herbivore,Rock Grazer,12,4,4,5,12,8.4,25,15,4,4,28,300,4,4
+Tropheus sp. Chipimbi,Tanganyika,Herbivore,Rock Grazer,12,4,4,5,12,8.4,25,15,4,4,28,300,4,4
+Altolamprologus compressiceps,Tanganyika,Carnivore,Rock Dweller,15,3,2,4,1,8.3,25,15,3,3,20,200,3,4
+Altolamprologus calvus,Tanganyika,Carnivore,Rock Dweller,15,3,2,4,1,8.3,25,15,3,3,22,200,3,4
+Neolamprologus pulcher,Tanganyika,Omnivore,Rock Dweller,10,3,3,4,6,8.3,25,15,2,2,8,120,3,3
+Neolamprologus tretocephalus,Tanganyika,Carnivore,Rock Dweller,15,4,3,4,1,8.3,25,15,3,3,18,250,3,4
+Eretmodus cyanostictus,Tanganyika,Herbivore,Rock Grazer,10,3,3,3,2,8.3,25,15,3,3,15,200,3,4
+Chalinochromis brichardi,Tanganyika,Carnivore,Rock Dweller,12,3,3,3,2,8.3,25,15,3,3,15,200,3,4
+Callochromis macrops,Tanganyika,Omnivore,Sand Dweller,12,3,4,4,2,8.3,25,15,3,3,18,200,3,4
+Enantiopus melanogenys,Tanganyika,Planktivore,Sand Dweller,14,2,4,4,2,8.3,25,15,3,3,20,250,3,4
+Xenotilapia flavipinnis,Tanganyika,Omnivore,Sand Dweller,10,2,4,3,6,8.3,25,15,3,3,15,200,3,4
+Xenotilapia bathyphilus,Tanganyika,Omnivore,Sand Dweller,12,2,4,3,6,8.3,25,15,3,3,15,200,3,4
+Xenotilapia papilio,Tanganyika,Omnivore,Sand Dweller,10,2,4,3,6,8.3,25,15,3,3,18,200,3,4
+Benthochromis tricoti,Tanganyika,Planktivore,Open Water,15,2,5,4,6,8.3,25,15,4,4,25,250,4,4
+Ophthalmotilapia ventralis,Tanganyika,Planktivore,Open Water,14,2,5,5,6,8.3,25,15,4,3,25,250,3,4
+Ophthalmotilapia nasuta,Tanganyika,Planktivore,Open Water,14,2,5,5,6,8.3,25,15,4,3,25,250,3,4
+Aristochromis christyi,Malawi,Carnivore,Hap,30,4,3,5,1,7.8,26,12,3,4,35,500,3,3
+Buccochromis nototaenia,Malawi,Carnivore,Hap,25,4,3,5,1,7.8,26,12,3,4,30,500,3,3
+Buccochromis rhoadesii,Malawi,Carnivore,Hap,25,4,3,5,1,7.8,26,12,3,4,30,500,3,3
+Buccochromis spectabilis,Malawi,Carnivore,Hap,25,4,3,5,1,7.8,26,12,3,4,32,500,3,3
+Chilotilapia rhoadesii,Malawi,Omnivore,Hap,20,3,3,4,1,7.8,26,12,3,3,22,300,2,3
+Copadichromis chrysonotus,Malawi,Planktivore,Hap,15,3,4,4,1,7.8,26,12,3,3,20,250,2,3
+Copadichromis melas,Malawi,Planktivore,Hap,15,3,4,4,1,7.8,26,12,3,3,20,250,2,3
+Exochochromis anagenys,Malawi,Carnivore,Hap,25,4,3,5,1,7.8,26,12,4,4,28,500,3,3
+Placidochromis electra,Malawi,Carnivore,Hap,20,3,3,4,1,7.8,26,12,3,3,22,300,2,3
+Placidochromis milomo,Malawi,Carnivore,Hap,20,3,3,5,1,7.8,26,12,3,3,22,300,2,3
+Placidochromis phenochilus,Malawi,Carnivore,Hap,20,3,3,5,1,7.8,26,12,3,3,25,300,2,3
+Placidochromis johnstoni,Malawi,Omnivore,Hap,18,3,3,4,1,7.8,26,12,3,3,20,300,2,3
+Placidochromis sp. Jalo,Malawi,Omnivore,Hap,18,3,3,4,1,7.8,26,12,3,3,22,300,2,3
+Hemitaeniochromis urotaenia,Malawi,Carnivore,Hap,20,3,3,5,1,7.8,26,12,3,4,28,400,3,3
+Lichnochromis acuticeps,Malawi,Carnivore,Hap,25,4,3,5,1,7.8,26,12,4,4,35,500,3,3
+Stigmatochromis modestus,Malawi,Carnivore,Hap,20,3,3,4,1,7.8,26,12,3,3,20,300,2,3
+Stigmatochromis woodi,Malawi,Carnivore,Hap,20,3,3,4,1,7.8,26,12,3,3,20,300,2,3
+Taeniochromis holotaenia,Malawi,Carnivore,Hap,22,3,3,4,1,7.8,26,12,3,3,25,400,2,3
+Tyrannochromis macrostoma,Malawi,Carnivore,Hap,30,5,3,5,1,7.8,26,12,4,5,40,600,3,3
+Tyrannochromis nigriventer,Malawi,Carnivore,Hap,30,5,3,5,1,7.8,26,12,4,5,40,600,3,3
+Tyrannochromis polyodon,Malawi,Carnivore,Hap,30,5,3,5,1,7.8,26,12,4,5,40,600,3,3
+Tyrannochromis maculiceps,Malawi,Carnivore,Hap,30,5,3,5,1,7.8,26,12,4,5,40,600,3,3
+Protomelas kirkii,Malawi,Omnivore,Hap,20,3,3,4,1,7.8,26,12,3,3,20,300,2,3
+Protomelas insignis,Malawi,Omnivore,Hap,20,3,3,4,1,7.8,26,12,3,3,20,300,2,3
+Protomelas ornatus,Malawi,Omnivore,Hap,20,3,3,4,1,7.8,26,12,3,3,20,300,2,3
+Altolamprologus fasciatus,Tanganyika,Carnivore,Rock Dweller,15,3,2,4,1,8.3,25,15,3,3,22,200,3,4
+Neolamprologus boulengeri,Tanganyika,Omnivore,Shell Dweller,7,2,3,3,6,8.3,25,15,3,2,15,80,3,3
+Neolamprologus signatus,Tanganyika,Omnivore,Shell Dweller,7,2,3,3,6,8.3,25,15,3,2,15,80,3,3
+Neolamprologus callipterus,Tanganyika,Omnivore,Shell Dweller,12,3,3,4,6,8.3,25,15,3,3,20,120,3,4
+Neolamprologus savoryi,Tanganyika,Carnivore,Rock Dweller,10,3,3,3,2,8.3,25,15,3,3,18,120,3,4
+Neolamprologus falcicula,Tanganyika,Carnivore,Rock Dweller,8,2,3,3,2,8.3,25,15,3,2,15,100,3,3
+Neolamprologus helianthus,Tanganyika,Omnivore,Rock Dweller,10,3,3,4,2,8.3,25,15,3,2,18,120,3,3
+Neolamprologus splendens,Tanganyika,Carnivore,Rock Dweller,12,3,3,4,2,8.3,25,15,3,3,18,150,3,4
+Julidochromis regani,Tanganyika,Carnivore,Rock Dweller,12,3,3,4,2,8.3,25,15,2,2,12,150,3,3
+Julidochromis marksmithi,Tanganyika,Carnivore,Rock Dweller,10,2,3,4,2,8.3,25,15,3,2,12,120,3,3
+Xenotilapia ochrogenys,Tanganyika,Omnivore,Sand Dweller,12,2,4,3,6,8.3,25,15,3,3,18,200,3,4
+Xenotilapia spilopterus,Tanganyika,Omnivore,Sand Dweller,12,2,4,3,6,8.3,25,15,3,3,18,200,3,4
+Xenotilapia melanogenys,Tanganyika,Omnivore,Sand Dweller,12,2,4,3,6,8.3,25,15,3,3,18,200,3,4
+Cyathopharynx foai,Tanganyika,Planktivore,Sand Dweller,20,2,4,5,2,8.3,25,15,4,4,30,350,4,4
+Cyathopharynx furcifer,Tanganyika,Planktivore,Sand Dweller,20,2,4,5,2,8.3,25,15,4,4,30,350,4,4
+Ophthalmotilapia boops,Tanganyika,Planktivore,Open Water,14,2,5,5,6,8.3,25,15,4,3,25,250,3,4
+Ophthalmotilapia heterodonta,Tanganyika,Planktivore,Open Water,14,2,5,5,6,8.3,25,15,4,3,25,250,3,4
+Cyprichromis microlepidotus,Tanganyika,Planktivore,Open Water,12,2,5,4,10,8.3,25,15,3,3,18,200,3,4
+Paracyprichromis brieni,Tanganyika,Planktivore,Open Water,12,2,5,4,10,8.3,25,15,3,3,18,200,3,4
+Ectodus descampsii,Tanganyika,Omnivore,Sand Dweller,12,2,4,3,6,8.3,25,15,3,3,20,200,3,4
+Grammatotria lemairii,Tanganyika,Carnivore,Sand Dweller,15,3,3,3,2,8.3,25,15,4,4,28,250,4,4
+Triglachromis otostigma,Tanganyika,Carnivore,Sand Dweller,15,3,3,3,2,8.3,25,15,4,4,28,250,4,4
+Perissodus microlepis,Tanganyika,Scale Eater,Open Water,15,4,3,4,1,8.3,25,15,5,5,30,300,4,4
+Plecodus straeleni,Tanganyika,Scale Eater,Open Water,15,4,3,4,1,8.3,25,15,5,5,32,300,4,4
+Gnathochromis permaxillaris,Tanganyika,Omnivore,Sand Dweller,18,3,3,3,2,8.3,25,15,4,4,28,300,4,4
+Greenwoodochromis bellcrossi,Tanganyika,Omnivore,Sand Dweller,20,3,3,3,2,8.3,25,15,5,4,30,400,4,4
+Boulengerochromis microlepis,Tanganyika,Carnivore,Open Water,90,5,3,5,1,8.3,25,15,5,5,80,1000,4,4
+Ctenochromis horei,Tanganyika,Omnivore,Rock Dweller,15,4,3,4,1,8.3,25,15,4,4,25,200,4,4
+Cyprichromis zonatus,Tanganyika,Planktivore,Open Water,12,2,5,4,10,8.3,25,15,4,3,22,200,3,4
+Trematocara marginatus,Tanganyika,Planktivore,Deep Water,10,2,4,3,6,8.3,25,15,4,3,25,200,3,4
+Placidochromis jalo,Malawi,Omnivore,Hap,18,3,3,4,1,7.8,26,12,3,3,20,300,2,3
+Placidochromis intermedius,Malawi,Omnivore,Hap,18,3,3,4,1,7.8,26,12,3,3,20,300,2,3
+Placidochromis platyrhynchos,Malawi,Omnivore,Hap,18,3,3,4,1,7.8,26,12,3,3,20,300,2,3
+Otopharynx argyrosoma,Malawi,Carnivore,Hap,18,3,3,4,1,7.8,26,12,3,3,20,250,2,3
+Otopharynx heterodon,Malawi,Carnivore,Hap,18,3,3,4,1,7.8,26,12,3,3,20,250,2,3
+Otopharynx auromarginatus,Malawi,Carnivore,Hap,18,3,3,5,1,7.8,26,12,3,3,25,250,2,3
+Otopharynx decorus,Malawi,Carnivore,Hap,18,3,3,4,1,7.8,26,12,3,3,20,250,2,3
+Stigmatochromis pholidophorus,Malawi,Carnivore,Hap,22,3,3,4,1,7.8,26,12,3,3,25,350,2,3
+Stigmatochromis pleurospilus,Malawi,Carnivore,Hap,22,3,3,4,1,7.8,26,12,3,3,25,350,2,3
+Lethrinops lethrinus,Malawi,Omnivore,Hap,18,3,3,3,1,7.8,26,12,3,3,18,250,2,3
+Lethrinops albus,Malawi,Omnivore,Hap,18,3,3,3,1,7.8,26,12,3,3,18,250,2,3
+Lethrinops auritus,Malawi,Omnivore,Hap,18,3,3,3,1,7.8,26,12,3,3,18,250,2,3
+Lethrinops marginatus,Malawi,Omnivore,Hap,18,3,3,3,1,7.8,26,12,3,3,18,250,2,3
+Lethrinops gossei,Malawi,Omnivore,Hap,18,3,3,3,1,7.8,26,12,3,3,18,250,2,3
+Mylochromis gracilis,Malawi,Carnivore,Hap,20,3,3,4,1,7.8,26,12,3,3,22,300,2,3
+Mylochromis lateristriga,Malawi,Carnivore,Hap,20,3,3,4,1,7.8,26,12,3,3,22,300,2,3
+Mylochromis guentheri,Malawi,Carnivore,Hap,20,3,3,4,1,7.8,26,12,3,3,22,300,2,3
+Tramitichromis lituris,Malawi,Omnivore,Hap,18,3,3,3,1,7.8,26,12,3,3,18,250,2,3
+Tramitichromis intermedius,Malawi,Omnivore,Hap,18,3,3,3,1,7.8,26,12,3,3,18,250,2,3
+Tramitichromis brevis,Malawi,Omnivore,Hap,18,3,3,3,1,7.8,26,12,3,3,18,250,2,3
+Astatotilapia latifasciata,Victoria,Omnivore,Rock Dweller,12,4,4,4,6,7.5,25,10,3,3,15,150,2,3
+Haplochromis nyererei,Victoria,Carnivore,Rock Dweller,12,4,4,5,6,7.5,25,10,3,3,18,150,2,3
+Haplochromis obliquidens,Victoria,Omnivore,Rock Dweller,12,4,4,4,6,7.5,25,10,3,3,15,150,2,3
+Haplochromis sp. Flameback,Victoria,Omnivore,Rock Dweller,12,4,4,5,6,7.5,25,10,3,3,18,150,2,3
+Haplochromis latifasciatus,Victoria,Omnivore,Rock Dweller,12,4,4,4,6,7.5,25,10,3,3,15,150,2,3
+Haplochromis brownae,Victoria,Omnivore,Rock Dweller,12,4,4,4,6,7.5,25,10,3,3,15,150,2,3
+Astatotilapia burtoni,Tanganyika,Omnivore,Rock Dweller,12,3,4,4,6,7.8,25,12,2,2,12,120,3,3
+Pseudocrenilabrus multicolor,Victoria,Omnivore,Rock Dweller,8,3,4,3,6,7.5,25,10,2,2,10,90,2,2
