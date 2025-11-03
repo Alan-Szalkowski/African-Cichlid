@@ -69,5 +69,5 @@ Experiment with neural networks for advanced pattern recognition.
 
  Personal Note
 
-This project marks one of my first major steps into machine learning and data analysis.
+This  is my first large project and one of my first major steps into machine learning and data analysis.
 It was created independently as part of my journey toward becoming an AI/ML Engineer, combining research, data design, and algorithm experimentation.
